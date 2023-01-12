@@ -1,6 +1,6 @@
 My name is Yohana Golkaria Nainggolan. You can call me Yohana.
 
-- 🌱 I’m currently learning C, C++, C#, Python, Java, SQL, Golang
+- 🌱 I’m currently learning C, C++, C#, Python, Java, SQL, PHP, Javascript
 - 📫 How to reach me: https://instagram.com/yohana.gn/
 - 😄 Pronouns: she/her
 
